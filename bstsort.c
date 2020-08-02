@@ -6,7 +6,6 @@
  * Title: Assignment 1
  * Semester: COP4338 - Spring 2021
  * Author Megan Jane Thompson
- * Panther ID: 3276301
  *
  * I affirm that the revisions of this program is entirely
  * my own work and none of it is the work of any other person.
