@@ -1,0 +1,5 @@
+bob is working. 
+david is a new hire. 
+Bob is working. 
+alice is bob's boss. 
+charles doesn't like bob.
